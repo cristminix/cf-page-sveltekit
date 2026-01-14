@@ -1,3 +1,3 @@
 [x] setup tailwindcss
 [x] configure tailwindcss
-[] setup shadcn
+[] setup sveltekit shadcn
