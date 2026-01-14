@@ -16,7 +16,16 @@
 		],
 		"baseUrl": ".",
 		"paths": {
-		"@/*": ["./src/*"]
+		"@/*": ["./src/*"],
+		"$lib": [
+				"./src/lib"
+			],
+			"$lib/*": [
+				"./src/lib/*"
+			],
+			"$app/types": [
+				"./types/index.d.ts"
+			]
 		}
 	}
 	// Path aliases are handled by https://svelte.dev/docs/kit/configuration#alias
