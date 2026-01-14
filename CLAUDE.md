@@ -2,8 +2,8 @@
 
 ## Project Overview
 
-- **Project Name**: cf-hono-rest-websocket-server-example
-- **Description**: Simple cloudflare worker with typescript with rest api and web socket server feature
+- **Project Name**: cf-page-sveltekit
+- **Description**: Simple cloudflare page with typescript with sveltekit
 - **Auth Provider**: Clerk
 
 ---
